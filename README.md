@@ -77,13 +77,13 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |            |
-| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
-| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
-| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
+| [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)                                                            |   DONE   |
+| [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |  DONE   |
+| [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |   DONE   |
+| [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |    DONE  |
+| [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |    DONE    |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |      DONE      | SITE
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
@@ -91,8 +91,8 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |            |              |
-| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Welcome To Coding                                                                                                                                                     |   DONE         |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |     DONE       |              |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
